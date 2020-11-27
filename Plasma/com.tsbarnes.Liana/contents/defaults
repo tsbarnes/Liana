@@ -1,14 +1,11 @@
-[kcminputrc][Mouse]
-cursorTheme=Lucrezia
-
 [kdeglobals][General]
 ColorScheme=Liana
 
-[kdeglobals][KDE]
-widgetStyle=Breeze
-
 [kdeglobals][Icons]
 Theme=Liana
+
+[kdeglobals][KDE]
+widgetStyle=Breeze
 
 [kwinrc][DesktopSwitcher]
 LayoutName=org.kde.breeze.desktop
@@ -21,4 +18,4 @@ library=org.kde.sierrabreezeenhanced
 theme=Sierra Breeze Enhanced
 
 [plasmarc][Theme]
-name=Arc-Color
+name=default
